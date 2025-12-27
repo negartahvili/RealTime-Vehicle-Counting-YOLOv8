@@ -1,0 +1,15 @@
+if __name__ == "__main__":
+
+# **Important:** Before running the code, make sure to enable GPU in Colab:
+# Runtime -> Change runtime type -> Hardware accelerator -> GPU
+    print("✅ The trained model is ready.")
+    print("📌 Now you can upload your images multiple times and the recognition will be performed.")
+    print("📌 After uploading each image, the result will be displayed on the image and in the output.")
+    print("📌 To exit, hit 'Cancel' or press Ctrl+C during upload.\n")
+
+    while True:
+        try:
+            main_counting_flow()
+        except KeyboardInterrupt:
+            print("\n\n🛑 Stopped. Thank you for using this app!")
+            break
