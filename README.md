@@ -19,5 +19,5 @@ This project implements an automated system for detecting and counting vehicles 
 
 ### 📊 Results
 <img width="1189" height="824" alt="image" src="https://github.com/user-attachments/assets/2011d897-403c-4937-a39b-515218a3e454" />
-<img width="1189" height="744" alt="image" src="https://github.com/user-attachments/assets/51588d6b-9876-48e7-859c-d3b18a7f06d8" />
 <img width="1189" height="744" alt="image" src="https://github.com/user-attachments/assets/a2f2520c-7f87-41ba-9ac9-6ea0fcfc9846" />
+<img width="1189" height="821" alt="image" src="https://github.com/user-attachments/assets/f2e1f0b4-76e3-4cd5-a09d-0cb8646b0d5d" />
